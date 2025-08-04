@@ -1,0 +1,120 @@
+.navbar {
+    margin-bottom: 10%;
+}
+
+img {
+ width: 100%;
+ border-radius: 20px;
+}
+
+.container-fluid img{
+    width: 15%;
+    margin-left: 65%;
+    border-radius: 0%;
+}
+
+.navbar-brand {
+    font-size: 15%;
+}
+
+.carousel-item {
+    max-width: 80%;
+    height: 0 auto;
+    text-align: center;
+    padding-left: 18%;
+}
+
+.col-12 h4 {
+    text-align: center;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.twitterx {
+    width: 2px;
+    height: 400px;
+}
+
+.apple {
+    padding-top: 5%;
+}
+
+.socialFollow__icons {
+    gap: 16px;
+    margin-left: 0;
+}
+
+.socialFollow__icons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.submenu {
+    font-size: 30px;
+    padding-top: 25%;
+    font-weight: 500;
+}
+
+.footer-title {
+    margin-top: 15%;
+    padding-left: 15%;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+
+.footer-content {
+    padding-left: 15%;
+    padding-bottom: 5%;
+    font-size: 12px;
+}
+
+
+.disclaimer {
+    padding-left: 11%;
+    font-weight: bold;
+    padding-top: 5%;
+    font-size: 12px;
+}
+
+.dis-content {
+    font-size: 12px;
+}
+
+.sitefooter-second-left {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Space between copyright and links */
+    flex-wrap: wrap; /* Keeps it responsive on small screens */
+    font-size: 12px;
+  }
+
+.sitefootersecondNav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 16px;
+}
+
+.sitefootersecondNav li {
+    display: inline;
+}
+
+.sitefootersecondNav a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn {
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.nav-artswrap {
+    margin-bottom: 5%;
+}
+
+.container h3 {
+    margin-top: 2%;
+}
